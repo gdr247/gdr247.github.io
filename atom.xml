@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gdr247.github.io/atom.xml" rel="self"/>
   <link href="http://gdr247.github.io/"/>
-  <updated>2015-01-12T15:30:56-05:00</updated>
+  <updated>2015-01-12T16:23:13-05:00</updated>
   <id>http://gdr247.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog Post]]></title>
+    <link href="http://gdr247.github.io/blog/2015/01/12/my-first-blog-post/"/>
+    <updated>2015-01-12T15:48:26-05:00</updated>
+    <id>http://gdr247.github.io/blog/2015/01/12/my-first-blog-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://gdr247.github.io/blog/2015/01/12/hello/"/>
+    <updated>2015-01-12T15:43:16-05:00</updated>
+    <id>http://gdr247.github.io/blog/2015/01/12/hello</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
